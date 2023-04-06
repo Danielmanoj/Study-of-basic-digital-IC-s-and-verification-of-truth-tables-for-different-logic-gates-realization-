@@ -80,6 +80,8 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
+![image](https://user-images.githubusercontent.com/69635071/230291977-9c62a798-f855-44a0-b741-d3340ad037d9.png)
+
 ![Screenshot 2023-04-06 111436](https://user-images.githubusercontent.com/69635071/230290232-0617a2b5-aec4-4772-a243-252fbafdc0d7.png)
 
 ![Screenshot 2023-04-06 115032](https://user-images.githubusercontent.com/69635071/230290111-afe2d4c1-24b9-47cf-be00-0fc65f41734b.png)
