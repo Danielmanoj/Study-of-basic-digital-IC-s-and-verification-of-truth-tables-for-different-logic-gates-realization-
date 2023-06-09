@@ -72,11 +72,11 @@ nand(y6,a,b);
 nor(y7,a,b);
 endmodule
 ```
-/*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: MANOJ G
 RegisterNumber:  212222240060
-*/
+```
 ### Logic symbol & Truthtable
 ## RTL realization
 ## Output:
